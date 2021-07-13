@@ -1,0 +1,61 @@
+body {
+	font-family: verdana;
+}
+
+nav {
+	overflow: hidden;
+}
+
+nav ul{
+	list-style-type: none;
+	float: left;
+	padding: 0px;
+}
+
+ nav ul li a {
+ 	text-decoration: none;
+ 	color: white;
+ 	display: block;
+ 	}
+ 
+ nav ul li a:hover{
+ 	text-decoration: none;
+ 	color: white;
+
+ }
+
+h1{
+	margin-left: 50px;
+}
+article {
+	text-align: center;
+	margin-bottom: 15px;
+	background-color: #E3E1E1;
+	border-radius: 20px;
+}
+
+footer{
+	text-align: center;
+	color: white;
+}
+
+#logo1 {
+	border-radius: 100px;
+	margin-top: 65px;
+	width: 450px;
+}
+
+#golf{
+	width: 400px;
+}
+
+#texto {
+	text-align: justify;
+}
+
+i {
+	font-size: 40px;
+	padding-left: 20px;
+	color: #ffff;
+	margin-bottom: 8px;
+}

@@ -1,0 +1,57 @@
+body {
+	background: #D1D0CF;
+	font-family: verdana;
+}
+
+nav {
+	overflow: hidden;
+}
+
+nav ul{
+	list-style-type: none;
+	float: left;
+	padding: 5px;
+}
+
+
+ nav ul li a {
+ 	text-decoration: none;
+ 	color: white;
+ 	display: block;
+ 	}
+ 
+ nav ul li a:hover{
+ 	text-decoration: none;
+ 	color: white;
+
+ }
+
+
+article {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	clear: both;
+	margin-top: 50px;
+}
+
+#logo1 {
+	border-radius: 100px;
+	margin-top: 70px;
+}
+
+iframe{
+	margin-left: -16px;
+	float: left;
+}
+
+i {
+	font-size: 40px;
+	padding-left: 20px;
+	color: #ffff;
+	margin-bottom: 8px;
+}
